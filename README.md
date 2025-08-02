@@ -144,10 +144,6 @@ def analyze_sentiment(self, text):
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## ⚠️ Disclaimer
 
 This application is designed for personal use and self-reflection. It is not a substitute for professional mental health care. If you're experiencing mental health challenges, please consider reaching out to a qualified mental health professional.
