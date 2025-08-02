@@ -135,18 +135,6 @@ def analyze_sentiment(self, text):
     return {"sentiment": "Custom", "score": 0.5}
 ```
 
-### Styling Changes
-Modify the CSS in `app.py` to change the appearance:
-
-```python
-st.markdown("""
-<style>
-    .main-header {
-        color: #your-color;
-    }
-</style>
-""", unsafe_allow_html=True)
-```
 
 ## 🤝 Contributing
 
