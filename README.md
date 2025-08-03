@@ -31,8 +31,8 @@ A privacy-focused, offline journaling application that helps you track your emot
 
 1. **Clone or download this repository**
    ```bash
-   git clone <repository-url>
-   cd mental-health-journal
+   git clone <(https://github.com/Shashankkota/MindTrace-Track-your-thoughts-over-time)>
+   cd MindTrace-Track-your-thoughts-over-time
    ```
 
 2. **Install dependencies**
