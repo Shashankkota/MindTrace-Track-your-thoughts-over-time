@@ -132,7 +132,7 @@ You can modify `sentiment.py` to use different sentiment analysis models:
 # Example: Using a custom model
 def analyze_sentiment(self, text):
     # Your custom sentiment analysis logic here
-    return {"sentiment": "Custom", "score": 0.5}
+    return {"sentiment": "Custom", "score": 0.6}
 ```
 
 
